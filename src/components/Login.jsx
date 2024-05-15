@@ -6,7 +6,7 @@ function Login(props) {
       <Content>
         <CTA>
           <CTALogoOne
-            src="../assets/images/cta-logo-one.svg"
+            src="./src/assets/images/cta-logo-one.svg"
             alt="Call to Action Logo"
           />
           <SignUp>GET ALL THERE</SignUp>
